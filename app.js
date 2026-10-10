@@ -90,7 +90,7 @@
       <section class="booking-dialog" role="dialog" aria-modal="true" aria-labelledby="booking-title" aria-describedby="booking-intro">
         <button type="button" class="modal-close" data-modal-close aria-label="Close demo form">×</button>
         <div data-form-view>
-          <p class="eyebrow">LOCAL BOOKING PREVIEW / NO REQUEST SENT</p>
+          <p class="eyebrow">BOOKING PREVIEW / NO REQUEST SENT</p>
           <h2 id="booking-title">Schedule Free <em>Demo.</em></h2>
           <p id="booking-intro" class="modal-intro">Try the proposed booking flow with fake details. Dates and times are illustrative, not FFD business hours or confirmed availability.</p>
           <form id="demo-form" novalidate>
@@ -106,7 +106,7 @@
             <label class="check-row"><input type="checkbox" name="emailReminder"><span>If this were live, email me a reminder for my requested demo. This preview sends nothing.</span></label>
             <label class="check-row"><input type="checkbox" name="smsReminder"><span>If this were live, text me a reminder at my optional phone number. This preview sends nothing.</span></label>
             <label class="check-row"><input type="checkbox" name="marketing"><span>I'd like occasional FFD product and event emails. Optional and separate from a demo request. No subscription occurs in this preview.</span></label>
-            <div class="form-footer"><button class="button button-primary" type="submit">Preview request <span aria-hidden="true">↗</span></button><span>Submitting displays a local test confirmation only.</span></div>
+            <div class="form-footer"><button class="button button-primary" type="submit">Preview request <span aria-hidden="true">↗</span></button><span>Submitting displays an on-screen test confirmation only.</span></div>
           </form>
           <div class="attribution"><p data-attribution></p><button type="button" data-reset-attribution>Reset source</button></div>
         </div>
